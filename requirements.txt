@@ -1,0 +1,9 @@
+opencv-python>=4.8
+numpy>=1.24
+pytesseract>=0.3.10
+
+# Also requires the Tesseract OCR binary to be installed system-wide
+# (this is NOT a pip package):
+#   Ubuntu/Debian: sudo apt-get install tesseract-ocr
+#   macOS:         brew install tesseract
+#   Windows:       https://github.com/UB-Mannheim/tesseract/wiki
