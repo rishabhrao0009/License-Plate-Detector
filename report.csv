@@ -1,0 +1,2 @@
+image_name,plate_found,bbox,aspect_ratio,recognized_text,confidence_note
+synthetic_car1.jpg,True,"(258, 318, 191, 54)",3.54,MP04AB123,ok

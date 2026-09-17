@@ -1,0 +1,15 @@
+[
+  {
+    "image_name": "synthetic_car1.jpg",
+    "plate_found": true,
+    "bbox": [
+      258,
+      318,
+      191,
+      54
+    ],
+    "aspect_ratio": 3.54,
+    "recognized_text": "MP04AB123",
+    "confidence_note": "ok"
+  }
+]
