@@ -133,3 +133,10 @@ python -m unittest discover -s tests -v
   `top_k` ranked candidates but only OCRs the single best-scoring one
   by default: images with multiple vehicles may need the candidate
   list (via `--debug`) inspected manually.
+
+  ##Output
+  <img width="690" height="301" alt="image" src="https://github.com/user-attachments/assets/ed0cae48-48fa-4413-a36b-09a9130a97c9" />
+
+  <img width="688" height="391" alt="image" src="https://github.com/user-attachments/assets/078cfefb-d68b-4b6d-bead-92aa58313e2c" />
+
+
